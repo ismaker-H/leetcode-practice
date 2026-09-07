@@ -1,5 +1,5 @@
 public class TwoSum {
     public static void main(String[] args){
-        System.out.println("LeetCode联系仓库");
+        System.out.println("LeetCode练习仓库");
     }
 }
